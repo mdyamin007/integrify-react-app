@@ -1,0 +1,14 @@
+.card-user {
+  width: 18rem;
+  margin: 0 auto;
+  transition: transform 500ms;
+}
+
+.card-user:hover {
+    transform: scale(1.05);
+}
+
+.card-image {
+    height: 100px;
+    width: 100px;
+}
